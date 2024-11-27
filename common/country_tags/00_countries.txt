@@ -1,3 +1,5 @@
+HOL	= "countries/Holland.txt"
+
 GER	= "countries/Germany.txt"
 ENG = "countries/United Kingdom.txt"
 SOV = "countries/Soviet Union.txt"
@@ -5,7 +7,6 @@ SWE	= "countries/Sweden.txt"
 FRA	= "countries/France.txt"
 LUX	= "countries/Luxemburg.txt"
 BEL	= "countries/Belgium.txt"
-HOL	= "countries/Holland.txt"
 CZE	= "countries/Czechoslovakia.txt"
 POL	= "countries/Poland.txt"
 AUS	= "countries/Austria.txt"
