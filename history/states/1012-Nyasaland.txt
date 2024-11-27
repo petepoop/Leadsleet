@@ -1,0 +1,23 @@
+
+state={
+	id=1012
+	name="Nyassaland"
+
+	history={
+		owner = POR
+		add_core_of = MZB
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		2202 10972 13272 
+	}
+	manpower=320000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=1006
+	name="Al-Mudawwara"
+	provinces={
+		4115 11976 
+	}
+	history = {
+			owner = ENG
+			add_core_of = JOR
+	}
+	state_category = wasteland
+	manpower=691
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

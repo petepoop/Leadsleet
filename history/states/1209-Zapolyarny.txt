@@ -1,0 +1,19 @@
+state={
+	id=1209
+	name="Zapolyarny"
+	provinces={
+		74 142 6117 9203 11183 
+	}
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 2
+
+		}
+	}
+	state_category = rural
+	manpower=11266
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

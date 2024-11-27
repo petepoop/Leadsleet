@@ -1,0 +1,25 @@
+
+state={
+	id=1072
+	name="Zhaotong"
+
+	history={
+		owner = YUN
+		add_core_of = YUN
+		add_core_of = PRC
+		add_core_of = CHI
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		4192 5072 12841 
+	}
+	manpower=2213533
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

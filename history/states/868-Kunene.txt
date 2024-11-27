@@ -1,0 +1,20 @@
+state={
+	id=868
+	name="Kunene"
+	history={
+		owner = SAF
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = SAF
+		add_core_of = NMB
+
+	}
+	provinces={
+		8136 10957 10978 12519 12921 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+}

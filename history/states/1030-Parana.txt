@@ -1,0 +1,16 @@
+state={
+	id=1030
+	name="Parana"
+	provinces={
+		2109 4587 5178 8181 8239 
+	}
+	history = {
+			owner = BRA
+			add_core_of = BRA
+			buildings = {infrastructure = 2}
+	}
+	state_category = town
+	manpower=1236276
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

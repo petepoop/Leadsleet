@@ -1,0 +1,16 @@
+state={
+	id=1035
+	name="Madre de Dios"
+	provinces={
+		5166 8191 10940 
+	}
+	history = {
+		owner = PRU
+		add_core_of = PRU
+		buildings = {infrastructure = 1}
+	}
+	state_category = rural
+	manpower=83325
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

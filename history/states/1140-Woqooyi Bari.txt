@@ -1,0 +1,17 @@
+state={
+	id=1140
+	name="Woqooyi Bari"
+	provinces={
+		8133 10761 10976 12927 
+	}
+	history = {
+		owner = ENG
+		add_core_of = KEN
+		add_core_of = SOM
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=24573
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

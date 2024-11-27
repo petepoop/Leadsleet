@@ -1,0 +1,23 @@
+
+state={
+	id=1095
+	name="Rybinsk"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		3077 6056 6143 6167 9188 11039 11166 13128 
+	}
+	manpower=200001
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

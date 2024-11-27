@@ -1,0 +1,21 @@
+state={
+	id=1046
+	name="Satander"
+	provinces={
+		7993 10747 12845 
+	}
+	history = {
+		owner = COL
+		add_core_of = COL
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+			industrial_complex = 5
+			air_base = 2
+		}
+	}
+	state_category = city
+	manpower=1127999
+	buildings_max_level_factor=1.000
+	local_supplies=4.000
+}

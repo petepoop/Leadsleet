@@ -1,0 +1,16 @@
+state={
+	id=1194
+	name="Lincoln"
+	provinces={
+		1927 1954 1998 2019 2042 4884 4955 5038 5061 6785 6798 6987 8064 10740 10894 12369 12728 12782 
+	}
+	history = {
+		owner = USA
+		add_core_of = USA
+		buildings = { infrastructure = 1 }
+	}
+	state_category = city
+	manpower=2674993
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

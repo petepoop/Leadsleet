@@ -1,0 +1,17 @@
+state={
+	id=1117
+	name="Arsii"
+	provinces={
+		12714 13299 13300 
+	}
+	history = {
+		owner = ETH
+		add_core_of = ETH
+		add_core_of = ORO
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=369271
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

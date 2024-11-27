@@ -1,0 +1,34 @@
+
+state={
+	id=104
+	name="STATE_104"
+	resources={
+		aluminium=7.000
+	}
+
+	history={
+		owner = YUG
+		victory_points = {
+			11899 5 
+		}
+		victory_points = {
+			6983 3 
+		}
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			air_base = 2
+
+		}
+		add_core_of = YUG
+		add_core_of = BOS
+
+	}
+
+	provinces={
+		6957 6983 9591 9922 11572 11872 
+	}
+	manpower=910200
+	buildings_max_level_factor=1.000
+	state_category=town
+}

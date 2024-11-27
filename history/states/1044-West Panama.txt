@@ -1,0 +1,25 @@
+state={
+	id=1044
+	name="West Panama"
+	provinces={
+		1633 4611 4624 
+	}
+	history = {
+		owner = PAN
+		add_core_of = PAN
+		buildings = {
+			infrastructure = 2
+			4611 = {
+				naval_base = 1
+
+			}
+		}
+		victory_points = {
+			4611 1 
+			}
+	}
+	state_category = town
+	manpower=121874
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=996
+	name="Westsachsen"
+	provinces={
+		3535 6559 9441 9471 11481 11545 
+	}
+	history = {
+			owner = GER
+			add_core_of = GER
+			buildings = {infrastructure = 2 }
+	}
+	manpower=699300	
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

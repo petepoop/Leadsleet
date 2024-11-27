@@ -1,0 +1,21 @@
+state={
+	id=870
+	name="Jiandao"
+	history={
+		owner = MAN
+		add_core_of = CHI
+		add_core_of = MAN
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+	provinces={
+		944 973 3929 3944 6806 6964 9897 11862 
+	}
+	manpower=1259326
+	buildings_max_level_factor=1.000
+	state_category = town
+}

@@ -1,0 +1,16 @@
+state={
+	id=1123
+	name="Maiduguri"
+	provinces={
+		4972 4997 5028 8109 
+	}
+	history = {
+		owner = ENG
+		add_core_of = NGA
+		buildings = { infrastructure = 1 }
+	}
+	state_category = wasteland
+	manpower=586020
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

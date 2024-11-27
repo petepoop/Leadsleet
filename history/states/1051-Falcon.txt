@@ -1,0 +1,16 @@
+state={
+	id=1051
+	name="Falcon"
+	provinces={
+		4526 10855 
+	}
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = {infrastructure = 2}
+	}
+	state_category = town
+	manpower=373622
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

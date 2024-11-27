@@ -1,0 +1,22 @@
+state={
+	id=967
+	name="Angermanland"
+
+	history={
+		owner = SWE
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		6063 6067 9088 9141 11120 11129 11148 11185 
+	}
+	manpower=89263
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

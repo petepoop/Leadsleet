@@ -1,0 +1,23 @@
+state={
+	id=986
+	name="Suez"
+	provinces={
+		4073 12049 13250 13251 
+	}
+	history = {
+			owner = ENG
+			add_core_of = EGY
+			add_claim_by = ENG
+			buildings = {
+				infrastructure = 2
+				12049 = {
+					naval_base = 2
+
+				}
+			}
+	}
+	manpower=744189
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = rural
+}

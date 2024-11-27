@@ -1,0 +1,20 @@
+state={
+	id=884
+	name="Bornholm"
+	history = {
+	owner = DEN
+	add_core_of = DEN
+	buildings = { infrastructure = 2 
+				6361 = {
+				naval_base = 1
+
+			}
+	}
+	}
+	provinces={
+		6361 
+	}
+	manpower=45819	
+	buildings_max_level_factor=1.000
+	state_category = small_island
+}

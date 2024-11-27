@@ -1,0 +1,24 @@
+
+state={
+	id=954
+	name="Kamenets"
+
+	history={
+		owner = POL
+		add_core_of = POL
+		add_core_of = BLR
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		318 3281 13236 
+	}
+	manpower=34388
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=3.000
+}

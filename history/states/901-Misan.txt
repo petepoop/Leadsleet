@@ -1,0 +1,23 @@
+
+state={
+	id=901
+	name="Misan"
+
+	history={
+		owner = IRQ
+		add_core_of = IRQ
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+	 2004 7977 12726 
+	}
+	manpower=125377
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

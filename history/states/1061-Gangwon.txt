@@ -1,0 +1,18 @@
+state={
+	id=1061
+	name="Gangwon"
+	provinces={
+		1148 7021 9936 10036 12011 
+	}
+	history = {
+		owner = JAP
+		add_core_of = KOR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	state_category = town
+	manpower=1790954
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

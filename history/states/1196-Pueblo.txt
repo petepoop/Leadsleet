@@ -1,0 +1,16 @@
+state={
+	id=1196
+	name="Pueblo"
+	provinces={
+		868 1658 1738 4586 6887 7684 7999 9792 10535 12627 
+	}
+	history = {
+		owner = USA
+		add_core_of = USA
+		buildings = { infrastructure = 1 }
+	}
+	state_category = town
+	manpower=678344
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

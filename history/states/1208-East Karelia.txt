@@ -1,0 +1,24 @@
+
+state={
+	id=1208
+	name="East Karelia"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = KAR
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		80 157 2998 6098 6175 9074 9119 11054 11096 11146 
+	}
+	manpower=92887
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

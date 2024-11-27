@@ -1,0 +1,17 @@
+
+state={
+	id=1221
+	name="Paraíba"
+	provinces={
+		2227 7561 10989 
+	}
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		buildings = { infrastructure = 1 }
+	}
+	state_category = town
+	manpower=2477211
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,27 @@
+
+state={
+	id=306
+	name="STATE_306"
+
+	history={
+		owner = COL
+		buildings = {
+			infrastructure = 2
+			
+
+		}
+		add_core_of = COL
+		victory_points = {
+			10747 10 
+		}
+
+	}
+
+	provinces={
+		2079 7936 7991 10846 
+	}
+	manpower=4953049
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=1.000
+}

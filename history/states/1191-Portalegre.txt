@@ -1,0 +1,16 @@
+state={
+	id=1191
+	name="Portalegre"
+	provinces={
+		3846 3886 3926 6986 9869 
+	}
+	history = {
+		owner = POR
+		add_core_of = POR
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=171672
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=983
+	name="Qeshm"
+	provinces={
+		13248 
+	}
+	history = {
+			owner = PER
+			add_core_of = PER
+			buildings = {infrastructure = 1}
+	}
+	manpower=117774
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = small_island
+}

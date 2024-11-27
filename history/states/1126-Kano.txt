@@ -1,0 +1,16 @@
+state={
+	id=1126
+	name="Kano"
+	provinces={
+		1969 13320 13321 
+	}
+	history = {
+		owner = ENG
+		add_core_of = NGA
+		buildings = { infrastructure = 2 }
+	}
+	state_category = city
+	manpower=2076892
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

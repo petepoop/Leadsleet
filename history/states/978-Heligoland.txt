@@ -1,0 +1,16 @@
+state={
+	id=978
+	name="Helgoland"
+	provinces={
+		13237 
+	}
+	history = {
+			owner = GER
+			add_core_of = GER
+			buildings = {infrastructure = 2 }
+	}
+	manpower=1307
+	buildings_max_level_factor=0.000
+	local_supplies=2.000
+	state_category = small_island
+}

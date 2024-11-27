@@ -1,0 +1,20 @@
+state={
+	id=1074
+	name="Briancon"
+	provinces={
+		764 3764 3961 9736 
+	}
+	history = {
+		owner = FRA
+		add_core_of = FRA
+		add_core_of = OCC
+		buildings = { 
+			infrastructure = 2 
+		}
+		
+	}
+	state_category = town
+	manpower=7543
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

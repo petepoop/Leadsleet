@@ -1,0 +1,17 @@
+state={
+	id=1113
+	name="Afar"
+	provinces={
+		5041 13308 13309 13310 
+	}
+	history = {
+		owner = AFA
+		add_core_of = ETH
+		add_core_of = AFA
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=161322
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

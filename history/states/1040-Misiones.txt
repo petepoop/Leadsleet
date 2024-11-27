@@ -1,0 +1,16 @@
+state={
+	id=1040
+	name="Misiones"
+	provinces={
+		8238 11007 
+	}
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		buildings = {infrastructure = 1}
+	}
+	state_category = rural
+	manpower=311892
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

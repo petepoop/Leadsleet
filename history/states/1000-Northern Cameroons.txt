@@ -1,0 +1,17 @@
+state={
+	id=1000
+	name="Northern Cameroons"
+	provinces={
+		13264 13265 
+	}
+	history = {
+			owner = ENG
+			add_core_of = NGA
+			add_claim_by = CMR
+			buildings = {infrastructure = 1}
+	}
+	manpower=73219
+	state_category = wasteland
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=1127
+	name="Sokoto"
+	provinces={
+		1891 1932 13318 13319 
+	}
+	history = {
+		owner = ENG
+		add_core_of = NGA
+		buildings = { infrastructure = 1 }
+	}
+	state_category = wasteland
+	manpower=427760
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

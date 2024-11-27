@@ -1,0 +1,23 @@
+
+state={
+	id=999
+	name="Southern Cameroons"
+
+	history={
+		owner = ENG
+		add_core_of = CMR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		13263 13414 
+	}
+	manpower=620515
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

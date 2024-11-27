@@ -1,0 +1,15 @@
+state={
+	id=1198
+	name="Northern Lappi"
+	provinces={
+		103 3069 3097 6061 
+	}
+	history = {
+		owner = FIN
+		add_core_of = FIN
+	}
+	state_category = wasteland
+	manpower=8692
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

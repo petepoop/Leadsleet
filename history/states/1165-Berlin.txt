@@ -1,0 +1,16 @@
+state={
+	id=1165
+	name="Berlin"
+	provinces={
+		6521 
+	}
+	history = { 
+		owner = GER
+		add_core_of = GER
+		buildings = { infrastructure = 3 }
+	}
+	state_category = large_city
+	manpower=4275832
+	buildings_max_level_factor=1.000
+	local_supplies=1.000
+}

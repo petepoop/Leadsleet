@@ -1,0 +1,16 @@
+state={
+	id=1203
+	name="Jonkoping"
+	provinces={
+		6311 6397 9308 9329 9393 9406 11289 11311 13095 
+	}
+	history = {
+		owner = SWE
+		add_core_of = SWE
+		buildings = { infrastructure = 2 }
+	}
+	state_category = rural
+	manpower=68122
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=1090
+	name="Southern Ural"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1406 4261 4265 4311 4383 7300 7373 10185 12200 
+	}
+	manpower=11829
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

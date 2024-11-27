@@ -1,0 +1,23 @@
+
+state={
+	id=1226
+	name="Kars"
+
+	history={
+		owner = TUR
+		add_core_of = TUR
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		789 7454 10403 10472 
+	}
+	manpower=211348
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

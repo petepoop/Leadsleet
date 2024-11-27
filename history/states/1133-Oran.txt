@@ -1,0 +1,16 @@
+state={
+	id=1133
+	name="Oran"
+	provinces={
+		4116 7132 11923 
+	}
+	history = {
+		owner = FRA
+		add_core_of = ALG
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=342788
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,26 @@
+
+state={
+	id=1104
+	name="Mount Gambier"
+
+	history={
+		owner = AST
+		add_core_of = AST
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			1773 1 
+		}
+
+	}
+
+	provinces={
+		1773 12918 12924 
+	}
+	manpower=13817
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

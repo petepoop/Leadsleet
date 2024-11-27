@@ -1,0 +1,31 @@
+
+state={
+	id=957
+	name="Finnmark"
+
+	history={
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 2
+			11050 = {
+				naval_base = 2
+
+			}
+			9116 = {
+				naval_base = 3
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		22 44 64 76 91 128 2995 3016 3040 3058 3082 6015 6079 6092 6107 6130 9042 9064 9089 9116 9128 9191 11034 11050 11063 11077 11090 11104 11169 
+	}
+	manpower=64511
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,24 @@
+
+state={
+	id=1112
+	name="Ogaden"
+
+	history={
+		owner = ETH
+		add_core_of = ETH
+		add_core_of = SOM
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		4995 12757 12812 13294 13295 13297 13298 13396 13397 13398 13404 
+	}
+	manpower=1444520
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

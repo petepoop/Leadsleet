@@ -1,0 +1,17 @@
+state={
+	id=837
+	name="New Hampshire"
+	history={
+	owner = USA
+	add_core_of = USA
+	buildings = {
+			infrastructure = 2
+			}
+	}
+	provinces={
+		733 3712 3715 10481 
+	}
+	manpower=491524	
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

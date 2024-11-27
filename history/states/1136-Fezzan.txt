@@ -1,0 +1,17 @@
+state={
+	id=1136
+	name="Fezzan"
+	provinces={
+		4962 5004 10884 12022 12082 12866 
+	}
+	impassable = yes
+	history = {
+		owner = ITA
+		add_core_of = LBA
+		buildings = { infrastructure = 1 }
+	}
+	state_category = wasteland
+	manpower=744
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

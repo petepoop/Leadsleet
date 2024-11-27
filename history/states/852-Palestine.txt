@@ -1,0 +1,19 @@
+state={
+	id=852
+	name="Palestine"
+	history {
+	owner = ENG
+	add_core_of = PAL
+		add_core_of = ISR
+		buildings = {
+			infrastructure = 1
+			}
+	
+	}
+	provinces={
+		1 1086 7176 
+	}
+	manpower=1900000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

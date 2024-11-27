@@ -1,0 +1,17 @@
+state={
+	id=1019
+	name="Nantong"
+	provinces={
+		4091 11928 
+	}
+	history = {
+			owner = CHI
+			add_core_of = PRC
+			add_core_of = CHI
+			buildings = {infrastructure = 2}
+	}
+	state_category = city
+	manpower=798126
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

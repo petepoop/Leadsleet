@@ -1,0 +1,18 @@
+state={
+	id=909
+	name="Eupen-Malmendy"
+	history{
+	owner = BEL
+	add_core_of = BEL
+	buildings = {
+			infrastructure = 1
+			}
+	
+	}
+	provinces={
+		3488 
+	}
+	manpower=60000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

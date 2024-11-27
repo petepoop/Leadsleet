@@ -1,0 +1,17 @@
+state={
+	id=860
+	name="Basutoland"
+	history {
+	owner = SAF
+	add_core_of = SAF
+	buildings = {
+			infrastructure = 2
+			}
+	}
+	provinces={
+		4556 
+	}
+	manpower=400000
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

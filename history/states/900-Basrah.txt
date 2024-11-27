@@ -1,0 +1,27 @@
+
+state={
+	id=900
+	name="Basrah"
+
+	history={
+		owner = IRQ
+		add_core_of = IRQ
+		buildings = {
+			infrastructure = 1
+			2089 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		2089 8001 
+	}
+	manpower=101535
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

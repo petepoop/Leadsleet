@@ -1,0 +1,26 @@
+
+state={
+	id=1183
+	name="Chalcidice"
+
+	history={
+		owner = GRE
+		add_core_of = GRE
+		buildings = {
+			infrastructure = 1
+			11818 = {
+				naval_base = 3
+
+			}
+		}
+
+	}
+
+	provinces={
+		895 3936 11818 
+	}
+	manpower=608349
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

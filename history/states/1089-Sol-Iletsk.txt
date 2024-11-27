@@ -1,0 +1,18 @@
+state={
+	id=1089
+	name="Sol-Iletsk"
+	provinces={
+		1254 3563 4322 
+	}
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	state_category = rural
+	manpower=28377
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

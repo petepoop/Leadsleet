@@ -1,0 +1,15 @@
+state={
+	id=1003
+	name="Bawdah"
+	provinces={
+		13269 
+	}
+	history = {
+			owner = FRA
+			add_core_of = SYR
+	}
+	state_category = wasteland
+	manpower=1
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

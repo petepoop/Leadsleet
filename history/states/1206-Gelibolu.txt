@@ -1,0 +1,38 @@
+
+state={
+	id=1206
+	name="Gelibolu"
+
+	history={
+		owner = TUR
+		add_core_of = TUR
+		buildings = {
+			infrastructure = 1
+
+		}
+		1936.1.1.1 = {
+			if = {
+				limit = {
+					has_dlc = "Battle for the Bosporus"
+
+				}
+				set_demilitarized_zone = yes
+
+			}
+
+		}
+		1936.11.9.1 = {
+			set_demilitarized_zone = no
+
+		}
+
+	}
+
+	provinces={
+		13242 
+	}
+	state_category = rural
+	manpower=29223
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

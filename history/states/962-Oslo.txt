@@ -1,0 +1,24 @@
+state={
+	id=962
+	name="Oslo"
+	provinces={
+		6115 
+	}
+	history = {
+			owner = NOR
+			add_core_of = NOR
+			buildings = {
+					infrastructure = 3
+					dockyard = 1
+			6115 = {
+				naval_base = 6
+				coastal_bunker = 3
+
+			}
+			}
+	}
+	manpower=434365	
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = city
+}

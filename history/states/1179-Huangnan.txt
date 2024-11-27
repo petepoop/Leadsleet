@@ -1,0 +1,25 @@
+
+state={
+	id=1179
+	name="Huangnan"
+
+	history={
+		owner = XSM
+		add_core_of = XSM
+		add_core_of = CHI
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		4888 7270 11448 12732 13254 
+	}
+	manpower=798546
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

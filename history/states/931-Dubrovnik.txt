@@ -1,0 +1,25 @@
+
+state={
+	id=931
+	name="Dalmatia"
+
+	history={
+		owner = YUG
+		add_core_of = YUG
+		add_core_of = CRO
+		buildings = {
+			infrastructure = 3
+			
+
+		}
+
+	}
+
+	provinces={
+		984 3924 3974 11816 11901 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

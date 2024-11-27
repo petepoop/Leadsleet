@@ -1,0 +1,23 @@
+state={
+	id=872
+	name="South Xingan"
+
+	history={
+		owner = MAN
+		add_core_of = CHI
+		add_core_of = MAN
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		1508 3978 6988 7575 10426 10429 10499 12478 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

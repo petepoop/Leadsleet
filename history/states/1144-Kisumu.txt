@@ -1,0 +1,16 @@
+state={
+	id=1144
+	name="Kisumu"
+	provinces={
+		5160 10860 11145 
+	}
+	history = {
+		owner = ENG
+		add_core_of = KEN
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=80890
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

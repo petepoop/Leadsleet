@@ -1,0 +1,16 @@
+state={
+	id=960
+	name="Vestfold"
+	provinces={
+		100 3094 6072 6151 6184 9036 9174 11029 
+	}
+	history = {
+			owner = NOR
+			add_core_of = NOR
+			buildings = {infrastructure = 3}
+	}
+	manpower=232419
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = town
+}

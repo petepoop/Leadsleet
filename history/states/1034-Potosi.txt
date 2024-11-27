@@ -1,0 +1,16 @@
+state={
+	id=1034
+	name="Potosi"
+	provinces={
+		2174 5179 5229 10938 10987 12930 12979 
+	}
+	history = {
+		owner = BOL
+		add_core_of = BOL
+		buildings = {infrastructure = 2}
+	}
+	state_category = rural
+	manpower=657743
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

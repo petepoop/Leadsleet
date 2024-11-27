@@ -1,0 +1,23 @@
+
+state={
+	id=1107
+	name="Goldfields-Esperance"
+
+	history={
+		owner = AST
+		add_core_of = AST
+		buildings = {
+			infrastructure = 0
+
+		}
+
+	}
+
+	provinces={
+		2191 12948 12962 12976 12990 
+	}
+	manpower=7826
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

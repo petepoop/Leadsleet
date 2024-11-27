@@ -1,0 +1,16 @@
+state={
+	id=1130
+	name="Kayes"
+	provinces={
+		2012 10829 10915 
+	}
+	history = {
+		owner = FRA
+		add_core_of = MLI
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=662986
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

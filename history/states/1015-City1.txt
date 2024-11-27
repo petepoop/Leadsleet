@@ -1,0 +1,24 @@
+state={
+	id=1015
+	name="Hangzhou"
+	provinces={
+		7191 
+	}
+	history = {
+			owner = CHI
+			add_core_of = PRC
+			add_core_of = CHI
+			buildings = {
+				infrastructure = 2
+				7191 = {
+					naval_base = 1
+					coastal_bunker = 1
+					bunker = 1
+					}
+			}
+	}
+	state_category = city
+	manpower=610000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

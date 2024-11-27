@@ -1,0 +1,16 @@
+state={
+	id=1031
+	name="Piaui"
+	provinces={
+		2228 5153 5204 10984 
+	}
+	history = {
+			owner = BRA
+			add_core_of = BRA
+			buildings = {infrastructure = 2}
+	}
+	state_category = town
+	manpower=817601
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

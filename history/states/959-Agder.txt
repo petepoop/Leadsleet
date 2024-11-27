@@ -1,0 +1,22 @@
+state={
+	id=959
+	name="Agder"
+	provinces={
+		3049 3129 9096 9196 9296 11176 11367 
+	}
+	history = {
+			owner = NOR
+			add_core_of = NOR
+			buildings = {infrastructure = 2
+						9296 = {
+				naval_base = 3
+				coastal_bunker = 1
+
+			}
+			}
+	}
+	manpower=177887
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = rural
+}

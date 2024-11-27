@@ -1,0 +1,19 @@
+state={
+	id=939
+	name="Sikkim"
+
+	history={
+		owner = RAJ
+		add_core_of = RAJ
+buildings = {
+			infrastructure = 1
+			}
+	}
+
+	provinces={
+		4435 12338 
+	}
+	manpower=121520
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

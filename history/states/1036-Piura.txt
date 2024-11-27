@@ -1,0 +1,16 @@
+state={
+	id=1036
+	name="Piura"
+	provinces={
+		2156 8199 
+	}
+	history = {
+			owner = PRU
+			add_core_of = PRU
+			buildings = {infrastructure = 2}
+	}
+	state_category = town
+	manpower=522895
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

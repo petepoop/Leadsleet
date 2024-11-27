@@ -1,0 +1,23 @@
+
+state={
+	id=956
+	name="Fehmarn"
+
+	history={
+		owner = GER
+		add_core_of = GER
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		13239 
+	}
+	manpower=12875
+	buildings_max_level_factor=0.000
+	state_category=small_island
+	local_supplies=2.000
+}

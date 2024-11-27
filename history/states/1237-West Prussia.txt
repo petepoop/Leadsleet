@@ -1,0 +1,19 @@
+
+state={
+	id=1237
+	name="Westpreußen"
+	provinces={
+		9252 11260 11288 
+	}
+    history = {
+        owner = GER
+        add_core_of = GER
+        buildings = {
+            infrastructure = 3
+        }   
+    }
+    state_category = town
+	manpower=78395
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

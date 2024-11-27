@@ -1,0 +1,23 @@
+
+state={
+	id=974
+	name="Varsinais-Suomi"
+	provinces={
+		3083 6066 9094 9194 11211 13101 
+	}
+	history = {
+			owner = FIN
+			add_core_of = FIN
+			buildings = {infrastructure = 2 
+			3083 = {
+				naval_base = 3
+				coastal_bunker = 1
+
+			}
+			}
+	}
+	manpower=319960
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = town
+}

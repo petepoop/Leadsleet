@@ -1,0 +1,20 @@
+state={
+	id=985
+	name="Eastanbul"
+	provinces={
+		11829 
+	}
+	history = {
+		owner = TUR
+		add_core_of = TUR
+				if = {
+			limit = { has_dlc = "Battle for the Bosporus"}
+			set_demilitarized_zone = yes
+		}
+		buildings = {infrastructure = 3}
+	}
+	manpower=40000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = town
+}

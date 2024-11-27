@@ -1,0 +1,19 @@
+state={
+	id=1092
+	name="Bataysk"
+	provinces={
+		585 11559 
+	}
+	history = {
+		owner = SOV
+		add_core_of = DON
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	state_category = town
+	manpower=111843
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

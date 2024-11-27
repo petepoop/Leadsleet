@@ -1,0 +1,17 @@
+state={
+	id=863
+	name="Free State"
+	history {
+	owner = SAF
+	add_core_of = SAF
+	buildings = {
+			infrastructure = 1
+			}
+	}
+	provinces={
+		5231 12064 12648 
+	}
+	manpower=200000
+	buildings_max_level_factor=1.000
+	state_category = town
+}

@@ -1,0 +1,16 @@
+state={
+	id=1190
+	name="Serpa"
+	provinces={
+		6884 9819 
+	}
+	history = {
+		owner = POR
+		add_core_of = POR
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=16227
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

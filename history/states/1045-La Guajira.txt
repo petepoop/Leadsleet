@@ -1,0 +1,22 @@
+state={
+	id=1045
+	name="La Guajira"
+	provinces={
+		1937 2085 8056 
+	}
+	history = {
+		owner = COL
+		add_core_of = COL
+		buildings = {
+			infrastructure = 2
+			8056 = {
+				naval_base = 1
+
+			}
+		}
+	}
+	state_category = town
+	manpower=181771	
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

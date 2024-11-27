@@ -1,0 +1,23 @@
+
+state={
+	id=1159
+	name="Khatanga"
+	impassable = yes
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		2900 4812 9224 11122 13065 
+	}
+	manpower=3450
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

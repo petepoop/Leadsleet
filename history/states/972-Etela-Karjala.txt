@@ -1,0 +1,24 @@
+
+state={
+	id=972
+	name="Etela-Karjala"
+
+	history={
+		owner = FIN
+		add_core_of = FIN
+		add_core_of = KAR
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		52 139 3061 6082 6186 11056 13105 
+	}
+	manpower=85277
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

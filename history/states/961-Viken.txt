@@ -1,0 +1,16 @@
+state={
+	id=961
+	name="Viken"
+	provinces={
+		14 27 144 3007 3059 3171 6080 9103 9204 11037 11078 11151 11184 
+	}
+	history = {
+			owner = NOR
+			add_core_of = NOR
+			buildings = {infrastructure = 3}
+	}
+	manpower=679144
+	buildings_max_level_factor=1.000
+	local_supplies=1.000
+	state_category = town
+}

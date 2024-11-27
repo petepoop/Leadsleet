@@ -1,0 +1,17 @@
+state={
+	id=906
+	name="Sheki"
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = AZR
+		buildings = { infrastructure = 2 }
+	
+	}
+	provinces={
+		4458 4545 6763 11645 
+	}
+	manpower=157353
+	buildings_max_level_factor=1.000
+	state_category = town
+}

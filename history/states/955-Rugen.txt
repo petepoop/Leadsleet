@@ -1,0 +1,16 @@
+state={
+	id=955
+	name="Rügen"
+	provinces={
+		13238 
+	}
+	history = {
+			owner = GER
+			add_core_of = GER
+			buildings = { infrastructure = 1 }
+	}
+	manpower=77000
+	buildings_max_level_factor=1.000
+	local_supplies=1.000
+	state_category = small_island
+}

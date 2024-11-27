@@ -1,0 +1,16 @@
+state={
+	id=1178
+	name="Hama"
+	provinces={
+		1056 1072 1088 10087 
+	}
+	history = {
+		owner = FRA
+		add_core_of = SYR
+		buildings = { infrastructure = 1 }
+	}
+	manpower=431794
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = rural
+}

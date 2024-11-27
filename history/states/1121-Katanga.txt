@@ -1,0 +1,16 @@
+state={
+	id=1121
+	name="Katanga"
+	provinces={
+		191 1516 1817 1929 1968 4515 12795 12907 
+	}
+	history = {
+		owner = BEL
+		add_core_of = COG
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=477869
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

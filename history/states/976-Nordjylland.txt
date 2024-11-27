@@ -1,0 +1,26 @@
+
+state={
+	id=976
+	name="Nordijylland"
+
+	history={
+		owner = DEN
+		add_core_of = DEN
+		buildings = {
+			infrastructure = 1
+			394 = {
+				naval_base = 3
+
+			}
+		}
+
+	}
+
+	provinces={
+		316 394 6235 
+	}
+	manpower=389612
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

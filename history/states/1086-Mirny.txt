@@ -1,0 +1,23 @@
+
+state={
+	id=1086
+	name="Mirninsky"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		72 183 3064 3065 3080 3130 3166 3168 6075 6088 6100 6102 6166 6193 6199 9101 9124 9130 9187 9213 9248 11061 11074 11171 
+	}
+	manpower=29394
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,17 @@
+state={
+	id=843
+	name="Northern Baranja"
+	history {
+	owner = HUN
+	add_core_of = HUN
+	buildings = {
+			infrastructure = 1
+			}
+	}
+	provinces={
+		682 3670 3680 6685 9624 9643 11610 
+	}
+	manpower=900868
+	buildings_max_level_factor=1.000
+	state_category=town
+}

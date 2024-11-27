@@ -1,0 +1,17 @@
+state={
+	id=1078
+	name="Vostochnyy Kiev"
+	provinces={
+		489 582 9491 9543 11530 11557 
+	}
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = UKR
+		buildings = { infrastructure = 2}
+	}
+	state_category = city
+	manpower=377921
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

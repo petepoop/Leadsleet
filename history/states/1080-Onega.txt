@@ -1,0 +1,16 @@
+state={
+	id=1080
+	name="Onega"
+	provinces={
+		3 18 26 89 127 138 140 3031 3086 3092 6051 6109 11038 11071 11137 11178 
+	}
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=19000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

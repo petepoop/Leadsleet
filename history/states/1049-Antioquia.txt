@@ -1,0 +1,16 @@
+state={
+	id=1049
+	name="Antioquia"
+	provinces={
+		2023 10790 12703 
+	}
+	history = {
+		owner = COL
+		add_core_of = COL
+		buildings = {infrastructure = 2}
+	}
+	state_category = town
+	manpower=1188587
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

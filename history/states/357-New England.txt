@@ -1,0 +1,39 @@
+
+state={
+	id=357
+	name="Maine"
+	resources={
+		steel=12.000
+	}
+
+	history={
+		owner = USA
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+			industrial_complex = 5
+			dockyard = 4
+			air_base = 10
+
+
+		}
+		add_core_of = USA
+		victory_points = {
+			6732 20 
+		}
+		victory_points = {
+			12459 1 
+		}
+		victory_points = {
+			9832 1 
+		}
+
+	}
+
+	provinces={
+		1282 1338 1619 3732 4287 6719 7462 10247 10318 12202 12221 12459 
+	}
+	manpower=847226
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+}

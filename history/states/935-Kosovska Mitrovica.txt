@@ -1,0 +1,19 @@
+
+state={
+	id=935
+	name="Kosovska Mitrovica"
+	provinces={
+		6940 9890 
+	}
+	history = { owner = YUG
+	add_core_of = YUG
+	add_core_of = SER
+	add_core_of = KOS
+	add_claim_by = ALB
+	buildings = {infrastructure = 1}
+	}
+	manpower=472247
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

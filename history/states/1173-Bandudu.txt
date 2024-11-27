@@ -1,0 +1,17 @@
+
+state={
+	id=1173
+	name="Bandudu"
+	provinces={
+		4128 10025 12775 12896 12945 13375 13376 13377 13378 13380 13381 13382 13383 13385 
+	}
+	history = {
+		owner = BEL
+		add_core_of = COG
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=1675977
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

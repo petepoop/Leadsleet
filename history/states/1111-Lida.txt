@@ -1,0 +1,24 @@
+
+state={
+	id=1111
+	name="Lida"
+
+	history={
+		owner = POL
+		add_core_of = POL
+		add_core_of = BLR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		3366 6340 6413 11391 
+	}
+	manpower=322874
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

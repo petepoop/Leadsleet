@@ -1,0 +1,16 @@
+
+state={
+	id=1213
+	name="Northern Mozambique"
+	provinces={
+		2123 2159 2180 2217 5164 12950 12971 13271 
+	}
+	history = {
+		owner = POR
+		add_core_of = MZB
+	}
+	state_category = rural
+	manpower=877922
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

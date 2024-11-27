@@ -1,0 +1,16 @@
+state={
+	id=984
+	name="Musandam"
+	provinces={
+		13249 
+	}
+	history = {
+			owner = OMA
+			add_core_of = OMA
+			buildings = {infrastructure = 1}
+	}
+	manpower=49000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = rural
+}

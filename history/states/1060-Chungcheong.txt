@@ -1,0 +1,18 @@
+state={
+	id=1060
+	name="Chungcheong"
+	provinces={
+		1100 7175 7204 7221 11992 
+	}
+	history = {
+		owner = JAP
+		add_core_of = KOR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	state_category = town
+	manpower=2338805
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

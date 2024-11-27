@@ -1,0 +1,16 @@
+state={
+	id=1192
+	name="Trinity"
+	provinces={
+		805 1500 2082 3960 4577 5001 5085 6968 7628 9829 9920 10337 10504 10778 10861 12486 
+	}
+	history = {
+		owner = USA
+		add_core_of = USA
+		buildings = { infrastructure = 1 }
+	}
+	state_category = city
+	manpower=1684599
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

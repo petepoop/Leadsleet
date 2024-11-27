@@ -1,0 +1,23 @@
+
+state={
+	id=1167
+	name="Ardennes"
+
+	history={
+		owner = BEL
+		add_core_of = BEL
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		6537 9444 
+	}
+	manpower=22459
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=1094
+	name="Cherepovets"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		60 81 129 160 163 3057 3124 3154 6073 6182 6189 9102 9207 11062 11168 
+	}
+	manpower=373324
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

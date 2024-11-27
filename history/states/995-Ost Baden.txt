@@ -1,0 +1,23 @@
+
+state={
+	id=995
+	name="Ostbaden"
+
+	history={
+		owner = GER
+		add_core_of = GER
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		3679 3690 6934 9655 13126 
+	}
+	manpower=75336
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

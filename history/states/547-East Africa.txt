@@ -1,0 +1,34 @@
+
+state={
+	id=547
+	name="Marsabit"
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			5210 = {
+				naval_base = 2
+
+			}
+
+		}
+		victory_points = {
+			1939 2 
+		}
+		victory_points = {
+			5210 1 
+		}
+		add_core_of = KEN
+
+	}
+
+	provinces={
+		2066 5079 13135 
+	}
+	manpower=92000
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=6.000
+}

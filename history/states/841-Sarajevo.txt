@@ -1,0 +1,18 @@
+state={
+	id=841
+	name="Sarajevo"
+	history {
+	owner = YUG
+		add_core_of = YUG
+		add_core_of = BOS
+		buildings = {
+			infrastructure = 2
+			}
+	}
+	provinces={
+		606 982 6799 11574 11741 11899 
+	}
+	manpower=875524
+	buildings_max_level_factor=1.000
+	state_category=city
+}

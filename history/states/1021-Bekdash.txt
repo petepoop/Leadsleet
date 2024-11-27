@@ -1,0 +1,17 @@
+state={
+	id=1021
+	name="Bekdash"
+	provinces={
+		4563 10406 
+	}
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = TMS
+		buildings = {infrastructure = 1}
+	}
+	state_category = wasteland
+	manpower=2118
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

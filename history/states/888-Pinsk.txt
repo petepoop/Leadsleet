@@ -1,0 +1,24 @@
+
+state={
+	id=888
+	name="Pinsk"
+
+	history={
+		owner = POL
+		add_core_of = POL
+		add_core_of = BLR
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		535 560 3496 3556 6280 6306 6579 11285 11503 
+	}
+	manpower=233791
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

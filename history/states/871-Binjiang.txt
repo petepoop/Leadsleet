@@ -1,0 +1,21 @@
+state={
+	id=871
+	name="Binjiang"
+	history={
+		owner = MAN
+		add_core_of = CHI
+		add_core_of = MAN
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+	provinces={
+		783 810 3791 3815 3843 4649 5427 6811 7523 7526 7582 7591 9766 9782 9798 9928 10376 10433 10503 11893 11906 12412 12482 
+	}
+	manpower=2218300
+	buildings_max_level_factor=1.000
+	state_category = town
+}

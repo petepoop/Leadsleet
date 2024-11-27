@@ -1,0 +1,15 @@
+state={
+	id=880
+	name="Zacatecas"
+	history = {
+	owner = MEX
+	add_core_of = MEX
+	buildings = { infrastructure = 2 }
+	}
+	provinces={
+		10738 12804 
+	}
+	manpower=565437
+	buildings_max_level_factor=1.000
+	state_category = town
+}

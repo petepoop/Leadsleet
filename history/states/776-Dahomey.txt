@@ -1,0 +1,30 @@
+
+state={
+	id=776
+	name="STATE_776"
+
+	history={
+		owner = FRA
+		add_core_of = DAH
+		victory_points = {
+			10919 1 
+		}
+		buildings = {
+			infrastructure = 2
+			10919 = {
+				naval_base = 1
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		10919 12762 12874 13338 
+	}
+	manpower=1351563
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=1.000
+}

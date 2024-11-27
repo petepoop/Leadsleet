@@ -1,0 +1,17 @@
+state={
+	id=1168
+	name="Central Carinthia"
+	provinces={
+		11612 
+	}
+	history = { 
+		owner = AUS
+		add_core_of = AUS
+		add_claim_by = SLV
+		buildings = { infrastructure = 1 }
+	}
+	state_category = pastoral
+	manpower=0
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

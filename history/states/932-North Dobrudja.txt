@@ -1,0 +1,28 @@
+state={
+	id=932
+	name="North Dobrudja"
+	history {
+		owner = ROM
+		add_claim_by = BUL
+		add_core_of = ROM
+	buildings = {
+			infrastructure = 1
+						dockyard = 1
+									657 = {
+				naval_base = 8
+
+			}
+			687 = {
+				naval_base = 1
+
+			}
+
+			}
+	}
+	provinces={
+		657 687 3076 9635 
+	}
+	manpower=500000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

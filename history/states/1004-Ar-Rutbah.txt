@@ -1,0 +1,15 @@
+state={
+	id=1004
+	name="Ar-Rutbah"
+	provinces={
+		1631 4951 13270 
+	}
+	history = {
+			owner = IRQ
+			add_core_of = IRQ
+	}
+	state_category = wasteland
+	manpower=22138
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=1084
+	name="Yuzhnyy Leningrad"
+	provinces={
+		79 6174 11068 
+	}
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		buildings = { infrastructure = 2 }
+	}
+	state_category = city
+	manpower=788362
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

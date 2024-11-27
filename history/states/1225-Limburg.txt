@@ -1,0 +1,16 @@
+state={
+	id=1225
+	name="Limburg"
+	provinces={
+		11562 
+	}
+	history = {
+		owner = HOL
+		add_core_of = HOL
+		buildings = { infrastructure = 2 }
+	}
+	state_category = town
+	manpower=872331
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

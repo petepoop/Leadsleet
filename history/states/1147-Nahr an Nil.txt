@@ -1,0 +1,16 @@
+state={
+	id=1147
+	name="Nahr an Nil"
+	provinces={
+		4138 4961 4963 7925 8105 12796 12826 12836 
+	}
+	history = {
+		owner = ENG
+		add_core_of = SUD
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=477928
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

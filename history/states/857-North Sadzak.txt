@@ -1,0 +1,18 @@
+
+state={
+	id=857
+	name="Northern Sandzak"
+	provinces={
+		3922 13245 
+	}
+	history = {
+			owner = YUG
+			add_core_of = YUG
+			add_core_of = SER
+			buildings = {infrastructure = 1}
+	}
+	manpower=195368
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

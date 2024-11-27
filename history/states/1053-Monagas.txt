@@ -1,0 +1,22 @@
+state={
+	id=1053
+	name="Monagas"
+	provinces={
+		7968 8080 10767 10823 10912 
+	}
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = {
+			infrastructure = 2
+			10912 = {
+				naval_base = 2
+
+			}
+		}
+	}
+	state_category = city
+	manpower=811221
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

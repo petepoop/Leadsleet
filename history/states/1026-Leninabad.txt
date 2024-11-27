@@ -1,0 +1,17 @@
+state={
+	id=1026
+	name="Leninabad"
+	provinces={
+		1919 10187 12430 
+	}
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = TAJ
+		buildings = {infrastructure = 1}
+	}
+	state_category = wasteland
+	manpower=73128
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

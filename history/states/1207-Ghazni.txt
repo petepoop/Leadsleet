@@ -1,0 +1,16 @@
+state={
+	id=1207
+	name="Ghanzi"
+	provinces={
+		5082 8090 10789 12769 
+	}
+	history = {
+		owner = AFG
+		add_core_of = AFG
+		buildings = { infrastructure = 1 }
+	}
+	state_category = wasteland
+	manpower=202338
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,20 @@
+state={
+	id=876
+	name="Campeche"
+	history = {
+	owner = MEX
+	add_core_of = MEX
+	buildings = { infrastructure = 1 
+				4904 = {
+				naval_base = 2
+
+			}
+	}
+	}
+	provinces={
+		4904 
+	}
+	manpower=90460
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

@@ -1,0 +1,17 @@
+state={
+	id=925
+	name="Kachin"
+		history = {
+	owner = RAJ
+	add_core_of = BRM
+	buildings = {infrastructure = 1}
+	
+	
+	}
+	provinces={
+		1082 1197 1934 4318 4425 4996 8063 
+	}
+	manpower=737939
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

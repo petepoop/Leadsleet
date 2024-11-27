@@ -1,0 +1,16 @@
+state={
+	id=1101
+	name="Gisborne"
+	provinces={
+		4748 7742 10710 
+	}
+	history = {
+		owner = NZL
+		add_core_of = NZL
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=21377
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

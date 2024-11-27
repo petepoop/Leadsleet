@@ -1,0 +1,17 @@
+state={
+	id=923
+	name="Shan"
+	history = {
+	owner = RAJ
+	add_core_of = BRM
+	buildings = {infrastructure = 1}
+	
+	
+	}
+	provinces={
+		1170 1566 1607 2061 4654 7562 7603 12363 
+	}
+	manpower=3179546
+	buildings_max_level_factor=1.000
+	state_category = town
+}

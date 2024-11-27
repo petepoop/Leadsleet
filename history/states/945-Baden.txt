@@ -1,0 +1,18 @@
+state={
+	id=945
+	name="Baden"
+	history = {
+	owner = GER
+	add_core_of = GER
+	set_demilitarized_zone = yes
+	buildings = {
+			infrastructure = 3
+			}
+	}
+	provinces={
+		3530 3692 6542 6568 6712 11640 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

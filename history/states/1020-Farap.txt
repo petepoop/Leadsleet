@@ -1,0 +1,20 @@
+state={
+	id=1020
+	name="Farap"
+	provinces={
+		756 1632 9605 
+	}
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = TMS
+		buildings = {infrastructure = 1}
+		victory_points = {
+			9605 1 
+		}
+	}
+	state_category = rural
+	manpower=21317
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

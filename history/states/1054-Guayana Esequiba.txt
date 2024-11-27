@@ -1,0 +1,17 @@
+state={
+	id=1054
+	name="Guyana Esequiba"
+	provinces={
+		12716 13283 
+	}
+	history = {
+		owner = ENG
+		add_core_of = GYA
+		add_claim_by = VEN
+		buildings = { infrastructure = 1}
+	}
+	state_category = rural
+	manpower=73764
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

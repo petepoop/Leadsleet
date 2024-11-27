@@ -1,0 +1,16 @@
+state={
+	id=1075
+	name="Halaib"
+	provinces={
+		13286 13288 
+	}
+	history = {
+		owner = ENG
+		add_core_of = EGY
+		add_core_of = SUD
+	}
+	state_category = rural
+	manpower=22815
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

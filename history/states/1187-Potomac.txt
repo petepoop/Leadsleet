@@ -1,0 +1,16 @@
+state={
+	id=1187
+	name="Potomac"
+	provinces={
+		873 6846 
+	}
+	history = {
+		owner = USA
+		add_core_of = USA
+		buildings = { infrastructure = 1 }
+	}
+	state_category = town
+	manpower=78564
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

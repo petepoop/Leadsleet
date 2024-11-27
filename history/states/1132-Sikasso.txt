@@ -1,0 +1,16 @@
+state={
+	id=1132
+	name="Sikasso"
+	provinces={
+		4927 5045 8116 12794 
+	}
+	history = {
+		owner = FRA
+		add_core_of = MLI
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=446406
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

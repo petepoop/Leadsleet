@@ -1,0 +1,21 @@
+state={
+	id=874
+	name="Baja California Sur"
+	history = {
+	owner = MEX
+	add_core_of = MEX
+	 buildings = {
+	 infrastructure = 2
+	 			12736 = {
+				naval_base = 1
+
+			}
+	 }
+	}
+	provinces={
+		1904 8119 12736 
+	}
+	manpower=51471
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

@@ -1,0 +1,22 @@
+state={
+	id=1001
+	name="Arabian Gulf"
+	provinces={
+		1955 4932 10791 12702 13267 
+	}
+	history = {
+			owner = SAU
+			add_core_of = SAU
+			buildings = {
+				infrastructure = 1
+				12702 = {
+					naval_base = 6
+
+				}
+			}
+	}
+	state_category = rural
+	manpower=22753
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

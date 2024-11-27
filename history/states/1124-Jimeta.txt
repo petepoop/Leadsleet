@@ -1,0 +1,23 @@
+
+state={
+	id=1124
+	name="Jimeta"
+
+	history={
+		owner = ENG
+		add_core_of = NGA
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1992 4889 7978 
+	}
+	manpower=344587
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

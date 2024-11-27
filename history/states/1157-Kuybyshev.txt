@@ -1,0 +1,16 @@
+state={
+	id=1157
+	name="Kuybyshev"
+	provinces={
+		1733 1860 4366 4806 4840 7687 7722 10555 12606 12679 
+	}
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=51171
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

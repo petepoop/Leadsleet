@@ -1,0 +1,21 @@
+state={
+	id=977
+	name="Sjaelland"
+	provinces={
+		3260 3305 3325 3374 6393 
+	}
+	history = {
+			owner = DEN
+			add_core_of = DEN
+			buildings = {infrastructure = 2
+			3325 = {
+				naval_base = 3
+
+			}
+			}
+	}
+	manpower=554148
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = town
+}

@@ -1,0 +1,16 @@
+state={
+	id=1043
+	name="Entre Rios"
+	provinces={
+		1449 8187 10515 10943 12453 12964 
+	}
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		buildings = {infrastructure = 1}
+	}
+	state_category = town
+	manpower=247863
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

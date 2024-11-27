@@ -1,0 +1,18 @@
+state={
+	id=1059
+	name="Jeolla"
+	provinces={
+		4126 10110 11948 11977 12085 
+	}
+	history = {
+		owner = JAP
+		add_core_of = KOR
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	state_category = town
+	manpower=2842902
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

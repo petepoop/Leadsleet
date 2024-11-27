@@ -1,0 +1,16 @@
+state={
+	id=1163
+	name="Wesel"
+	provinces={
+		3512 6622 
+	}
+	history = {
+		owner = GER
+		add_core_of = GER
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=402113
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

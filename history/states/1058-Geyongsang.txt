@@ -1,0 +1,22 @@
+state={
+	id=1058
+	name="Geyongsang"
+	provinces={
+		1054 1081 4056 4086 4103 7121 10085 10115 11912 12060 12089 
+	}
+	history = {
+		owner = JAP
+		add_core_of = KOR
+		buildings = {
+			infrastructure = 2
+			dockyard = 1			
+			4056 = {
+				naval_base = 3
+			}
+		}
+	}
+	state_category = city
+	manpower=2791436
+	buildings_max_level_factor=1.000
+	local_supplies=2.000
+}

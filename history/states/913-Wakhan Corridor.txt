@@ -1,0 +1,15 @@
+state={
+	id=913
+	name="Wakhan Corridor"
+	history = {
+	owner = AFG
+	add_core_of = AFG
+	buildings = {infrastructure = 1 }
+	}
+	provinces={
+		7519 
+	}
+	manpower=12000
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}

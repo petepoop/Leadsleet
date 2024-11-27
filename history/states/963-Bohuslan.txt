@@ -1,0 +1,16 @@
+state={
+	id=963
+	name="Bohuslan"
+	provinces={
+		171 6310 
+	}
+	history = { 
+			owner = SWE
+			add_core_of = SWE
+			buildings = {infrastructure = 1}
+	}
+	manpower=203917
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = rural
+}

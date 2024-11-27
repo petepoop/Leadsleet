@@ -1,0 +1,16 @@
+state={
+	id=1195
+	name="Austin"
+	provinces={
+		5022 12341 12410 
+	}
+	history = {
+		owner = USA
+		add_core_of = USA
+		buildings = { infrastructure = 1 }
+	}
+	state_category = town
+	manpower=776892
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

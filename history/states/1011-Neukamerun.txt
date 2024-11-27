@@ -1,0 +1,16 @@
+state={
+	id=1011
+	name="Neukamerun"
+	provinces={
+		1993 
+	}
+	history = {
+			owner = FRA
+			add_core_of = CHA
+			buildings = {infrastructure = 1}
+	}
+	manpower=537
+	state_category = rural
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

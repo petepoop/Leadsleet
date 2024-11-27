@@ -1,0 +1,15 @@
+state={
+	id=917
+	name="Southern Region"
+	history = {
+	owner = AFG
+	add_core_of = AFG
+	buildings = {infrastructure = 1 }
+	}
+	provinces={
+		12831 
+	}
+	manpower=882170
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

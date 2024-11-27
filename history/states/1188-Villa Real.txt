@@ -1,0 +1,16 @@
+state={
+	id=1188
+	name="Villa Real"
+	provinces={
+		877 3892 6941 
+	}
+	history = {
+		owner = POR
+		add_core_of = POR
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=43769
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

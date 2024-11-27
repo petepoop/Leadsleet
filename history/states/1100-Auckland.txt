@@ -1,0 +1,24 @@
+state={
+	id=1100
+	name="Auckland"
+	provinces={
+		1565 4543 4615 10334 10373 
+	}
+	history = {
+		owner = NZL
+		add_core_of = NZL
+		buildings = {
+			4543 = {
+				naval_base = 3
+			}
+			infrastructure = 2
+		}
+		victory_points = {
+			4543 5 
+		}
+	}
+	state_category = city
+	manpower=263370
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

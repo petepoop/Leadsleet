@@ -1,0 +1,23 @@
+
+state={
+	id=899
+	name="Al-muthanna"
+
+	history={
+		owner = IRQ
+		add_core_of = IRQ
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		10744 12879 
+	}
+	manpower=74331
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

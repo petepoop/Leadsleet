@@ -1,0 +1,17 @@
+state={
+	id=1120
+	name="Jimma"
+	provinces={
+		8019 13305 13306 13307 
+	}
+	history = {
+		owner = ETH
+		add_core_of = ETH
+		add_core_of = GBA
+		buildings = { infrastructure = 1 }
+	}
+	state_category = wasteland
+	manpower=29060
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,33 @@
+
+state={
+	id=110
+	name="Innlandet"
+	resources={
+		aluminium=5.000
+	}
+
+	history={
+		victory_points = {
+			6115 15 
+		}
+		owner = NOR
+		buildings = {
+			infrastructure = 3
+			arms_factory = 2
+			industrial_complex = 3
+			air_base = 4
+
+
+		}
+		add_core_of = NOR
+
+	}
+
+	provinces={
+		10 111 133 179 3021 3105 3136 6042 6114 6136 6160 9032 9135 9157 9227 11028 11113 11135 11206 
+	}
+	manpower=160496
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

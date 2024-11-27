@@ -1,0 +1,17 @@
+
+state={
+	id=1220
+	name="Tocantins"
+	provinces={
+		2168 5151 
+	}
+	history = {
+		owner = BRA
+		add_core_of = BRA
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=683729
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

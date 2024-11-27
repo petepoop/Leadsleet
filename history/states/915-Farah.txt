@@ -1,0 +1,15 @@
+state={
+	id=915
+	name="Farah"
+	history = {
+	owner = AFG
+	add_core_of = AFG
+	buildings = {infrastructure = 1 }
+	}
+	provinces={
+		1948 2017 2062 2101 
+	}
+	manpower=573146
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

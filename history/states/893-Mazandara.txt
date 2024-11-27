@@ -1,0 +1,15 @@
+state={
+	id=893
+	name="Mazandara"
+	history = {
+		owner = PER
+		add_core_of = PER
+		buildings = { infrastructure = 1 } 
+	}
+	provinces={
+		4580 10385 10768 
+	}
+	manpower=835000
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

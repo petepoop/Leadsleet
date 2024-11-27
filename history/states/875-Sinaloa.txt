@@ -1,0 +1,21 @@
+state={
+	id=875
+	name="Sinaloa"
+	history = {
+	owner = MEX
+	add_core_of = MEX
+	buildings = { infrastructure = 1 
+				dockyard = 1
+			8057 = {
+				naval_base = 3
+
+			}
+	}
+	}
+	provinces={
+		1945 8057 10895 
+	}
+	manpower=492821
+	buildings_max_level_factor=1.000
+	state_category = Rural
+}

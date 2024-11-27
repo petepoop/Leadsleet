@@ -1,0 +1,23 @@
+
+state={
+	id=1105
+	name="Kimberly"
+
+	history={
+		owner = AST
+		add_core_of = AST
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		2201 5207 8209 8247 10937 10958 11016 
+	}
+	manpower=12873
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

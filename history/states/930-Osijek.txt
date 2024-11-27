@@ -1,0 +1,23 @@
+state={
+	id=930
+	name="Osijek"
+
+	history={
+		owner = YUG
+		add_core_of = YUG
+		add_core_of = CRO
+		buildings = {
+			infrastructure = 2
+		}
+		victory_points = {
+			6647 3 
+		}
+	}
+
+	provinces={
+		3627 6647 9595 
+	}
+	manpower=400000
+	buildings_max_level_factor=1.000
+	state_category=town
+}

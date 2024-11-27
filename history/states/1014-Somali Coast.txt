@@ -1,0 +1,25 @@
+state={
+	id=1014
+	name="Somali Coast"
+	provinces={
+		1966 10818 12840 12941 13277 13278 13279 13280 13282 
+	}
+	history = {
+			owner = ITA
+			add_core_of = SOM
+			buildings = {infrastructure = 1
+			12941 = {
+				naval_base = 2
+
+			}
+			13279 = {
+				naval_base = 2
+
+			}
+		}
+	}
+	state_category = rural
+	manpower=55781
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

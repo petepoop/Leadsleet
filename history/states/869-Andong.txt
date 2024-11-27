@@ -1,0 +1,21 @@
+state={
+	id=869
+	name="Andong"
+	history={
+		owner = MAN
+		add_core_of = CHI
+		add_core_of = MAN
+		add_core_of = PRC
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+	provinces={
+		800 861 927 945 3949 3970 6860 6910 6981 9759 9803 9841 9848 11781 11823 
+	}
+	manpower=250000
+	buildings_max_level_factor=1.000
+	state_category = pastoral
+}

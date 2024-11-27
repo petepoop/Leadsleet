@@ -1,0 +1,26 @@
+
+state={
+	id=969
+	name="Halsingland"
+
+	history={
+		owner = SWE
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 3
+			130 = {
+				naval_base = 1
+
+			}
+		}
+
+	}
+
+	provinces={
+		125 130 205 3108 6010 6126 9035 9151 11040 11123 11147 11209 
+	}
+	manpower=89570
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

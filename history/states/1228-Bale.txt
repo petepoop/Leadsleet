@@ -1,0 +1,24 @@
+
+state={
+	id=1228
+	name="Bale"
+
+	history={
+		owner = ETH
+		add_core_of = ETH
+		add_core_of = SOM
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		8062 13296 13301 13399 13402 
+	}
+	manpower=834775
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

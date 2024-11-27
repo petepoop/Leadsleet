@@ -1,0 +1,16 @@
+state={
+	id=1048
+	name="Guainia"
+	provinces={
+		10792 12729 
+	}
+	history = {
+		owner = COL
+		add_core_of = COL
+		buildings = {infrastructure = 1}
+	}
+	state_category = wasteland
+	manpower=3602
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

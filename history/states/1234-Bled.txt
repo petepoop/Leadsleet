@@ -1,0 +1,24 @@
+
+state={
+	id=1234
+	name="Bled"
+
+	history={
+		owner = YUG
+		add_core_of = YUG
+		add_core_of = SLV
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		3631 9596 
+	}
+	manpower=32684
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

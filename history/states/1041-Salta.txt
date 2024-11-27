@@ -1,0 +1,16 @@
+state={
+	id=1041
+	name="Salta"
+	provinces={
+		2224 11001 
+	}
+	history = {
+		owner = ARG
+		add_core_of = ARG
+		buildings = {infrastructure = 1}
+	}
+	state_category = town
+	manpower=230445
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

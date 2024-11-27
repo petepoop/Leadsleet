@@ -1,0 +1,18 @@
+state={
+	id=1088
+	name="Northern Urals"
+	provinces={
+		4874 7824 10216 12659 
+	}
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	state_category = rural
+	manpower=37628
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

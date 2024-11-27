@@ -1,0 +1,27 @@
+state={
+	id=990
+	name="Dubrovnik"
+	provinces={
+		3868 6889 
+	}
+	history = {
+			owner = YUG
+			add_core_of = CRO
+			add_core_of = YUG
+			buildings = {
+				infrastructure = 2
+				3924 = {
+					naval_base = 3
+
+				}
+				6889 = {
+					naval_base = 1
+
+				}
+			}
+	}
+	manpower=20420
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

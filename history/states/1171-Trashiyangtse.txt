@@ -1,0 +1,25 @@
+
+state={
+	id=1171
+	name="Trashiyangtse"
+
+	history={
+		owner = BHU
+		add_core_of = BHU
+		buildings = {
+			infrastructure = 1
+
+		}
+		victory_points = {
+			13368 1 
+		}
+	}
+
+	provinces={
+		13363 13368 13370 13372 
+	}
+	manpower=121458
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

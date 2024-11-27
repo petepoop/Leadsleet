@@ -1,0 +1,16 @@
+state={
+	id=1098
+	name="Otago"
+	provinces={
+		2211 8232 8241 12980 12988 
+	}
+	history = {
+		owner = NZL
+		add_core_of = NZL
+		buildings = { infrastructure = 1}
+	}
+	state_category = rural
+	manpower=121387
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

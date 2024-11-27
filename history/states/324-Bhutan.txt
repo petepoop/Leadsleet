@@ -1,0 +1,31 @@
+
+state={
+	id=324
+	name="Thimphu"
+	resources={
+		tungsten=2.000
+	}
+
+	history={
+		owner = BHU
+		buildings = {
+			infrastructure = 1
+			arms_factory = 1
+			industrial_complex = 2
+
+		}
+		victory_points = {
+			13356 5 
+		}
+		add_core_of = BHU
+
+	}
+
+	provinces={
+		8010 13356 13357 13358 13371 
+	}
+	manpower=450000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

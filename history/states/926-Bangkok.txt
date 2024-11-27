@@ -1,0 +1,24 @@
+state={
+	id=926
+	name="Bangkok"
+	history={
+		owner = SIA
+		add_core_of = SIA
+		buildings = { infrastructure = 2 
+					7408 = {
+				naval_base = 3
+
+			}
+		}
+		
+		victory_points = {
+			7408 10 
+		}
+	}
+	provinces={
+		1244 4433 7225 7292 7408 10250 10293 12224 
+	}
+	manpower=968361
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

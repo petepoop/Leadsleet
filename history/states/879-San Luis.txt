@@ -1,0 +1,15 @@
+state={
+	id=879
+	name="San Luis"
+	history = {
+	owner = MEX
+	add_core_of = MEX
+	buildings = { infrastructure = 2 }
+	}
+	provinces={
+		1952 4956 10172 
+	}
+	manpower=678779
+	buildings_max_level_factor=1.000
+	state_category = town
+}

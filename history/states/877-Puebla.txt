@@ -1,0 +1,15 @@
+state={
+	id=877
+	name="Puebla"
+	history = {
+	owner = MEX
+	add_core_of = MEX
+	buildings = { infrastructure = 1 }
+	}
+	provinces={
+		8089 
+	}
+	manpower=1294620
+	buildings_max_level_factor=1.000
+	state_category = large_town
+}

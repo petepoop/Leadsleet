@@ -1,0 +1,23 @@
+
+state={
+	id=902
+	name="Karbala"
+
+	history={
+		owner = IRQ
+		add_core_of = IRQ
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		7994 12046 
+	}
+	manpower=100000
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

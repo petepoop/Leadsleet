@@ -1,0 +1,16 @@
+state={
+	id=1217
+	name="Trieste"
+	provinces={
+		6626 
+	}
+	history = {
+		owner = ITA
+		add_core_of = ITA
+		buildings = { infrastructure = 2 }
+	}
+	state_category = city
+	manpower=248307
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

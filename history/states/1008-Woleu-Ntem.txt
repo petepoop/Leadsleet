@@ -1,0 +1,23 @@
+
+state={
+	id=1008
+	name="Wokeu-Ntem"
+
+	history={
+		owner = FRA
+		add_core_of = GAB
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		13275 13350 
+	}
+	manpower=38465
+	buildings_max_level_factor=1.000
+	state_category=wasteland
+	local_supplies=0.000
+}

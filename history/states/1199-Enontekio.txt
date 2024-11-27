@@ -1,0 +1,15 @@
+state={
+	id=1199
+	name="Enontekio"
+	provinces={
+		11130 
+	}
+	history = {
+		owner = FIN
+		add_core_of = FIN
+	}
+	state_category = wasteland
+	manpower=1562
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

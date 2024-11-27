@@ -1,0 +1,17 @@
+
+state={
+	id=1174
+	name="Kasai"
+	provinces={
+		1731 2024 7716 8016 9986 10858 13384 
+	}
+	history = {
+		owner = BEL
+		add_core_of = COG
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=996461
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

@@ -1,0 +1,23 @@
+
+state={
+	id=1037
+	name="Manabi"
+	provinces={
+		8047 8252 
+	}
+	history = {
+			owner = ECU
+			add_core_of = ECU
+			buildings = {
+				infrastructure = 2
+				8252 = {
+				naval_base = 4
+
+				}
+			}
+	}
+	state_category = city
+	manpower=611832
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

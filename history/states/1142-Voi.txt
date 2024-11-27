@@ -1,0 +1,16 @@
+state={
+	id=1142
+	name="Taita-Taveta"
+	provinces={
+		5196 13324 13325 
+	}
+	history = {
+		owner = ENG
+		add_core_of = KEN
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=23853
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

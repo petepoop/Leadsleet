@@ -1,0 +1,16 @@
+state={
+	id=1129
+	name="Togoland"
+	provinces={
+		12785 
+	}
+	history = {
+		owner = ENG
+		add_core_of = GHA
+		add_core_of = TOG
+	}
+	state_category = rural
+	manpower=76528
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

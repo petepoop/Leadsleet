@@ -1,0 +1,25 @@
+state={
+	id=1013
+	name="Tianjin"
+	provinces={
+		10068 
+	}
+	history = {
+			owner = CHI
+			add_core_of = CHI
+			add_core_of = PRC
+			buildings = {
+				infrastructure = 2
+				10068 = {
+					naval_base = 2
+
+				}
+			
+			
+			}
+	}
+	state_category = city
+	manpower=2155064
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

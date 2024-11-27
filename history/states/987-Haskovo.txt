@@ -1,0 +1,16 @@
+state={
+	id=987
+	name="Haskovo"
+	provinces={
+		878 893 9862 
+	}
+	history = {
+			owner = BUL
+			add_core_of = BUL
+			buildings = {infrastructure = 2}
+	}
+	manpower=26516
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = rural
+}

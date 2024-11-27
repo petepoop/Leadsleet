@@ -1,0 +1,24 @@
+
+state={
+	id=992
+	name="Karlovac"
+
+	history={
+		owner = YUG
+		add_core_of = YUG
+		add_core_of = CRO
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		3592 3596 
+	}
+	manpower=44974
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=1002
+	name="Kuwaiti Desert"
+	provinces={
+		13268 
+	}
+	history = {
+			owner = ENG
+			add_core_of = KUW
+	}
+	state_category = wasteland
+	manpower=311
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

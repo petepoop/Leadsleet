@@ -1,0 +1,23 @@
+
+state={
+	id=1169
+	name="Austrian Danube"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		732 3718 6552 6723 6739 9527 
+	}
+	manpower=121457
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

@@ -1,0 +1,16 @@
+state={
+	id=1052
+	name="Amazonas Del Norte"
+	provinces={
+		5317 8050 
+	}
+	history = {
+		owner = VEN
+		add_core_of = VEN
+		buildings = {infrastructure = 2}
+	}
+	state_category = wasteland
+	manpower=17392
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

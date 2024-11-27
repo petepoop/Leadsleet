@@ -1,0 +1,19 @@
+state={
+	id=1091
+	name="Kotelnikovo"
+	provinces={
+		498 6503 6527 9459 9474 11447 
+	}
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = DON
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	state_category = rural
+	manpower=36168
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

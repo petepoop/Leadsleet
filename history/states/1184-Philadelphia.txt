@@ -1,0 +1,24 @@
+state={
+	id=1184
+	name="Philadelphia"
+	provinces={
+		822 891 3824 6845 6869 9820 11785 11799 
+	}
+	history = {
+		owner = USA
+		add_core_of = USA
+		buildings = { 
+			infrastructure = 3 
+			dockyard = 7
+			air_base = 2
+			6845 = {
+				naval_base = 8
+
+			}
+		}
+	}
+	state_category = city
+	manpower=2366847
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

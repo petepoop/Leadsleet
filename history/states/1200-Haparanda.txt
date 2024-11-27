@@ -1,0 +1,23 @@
+
+state={
+	id=1200
+	name="Haparanda"
+
+	history={
+		owner = SWE
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		61 151 201 6168 6170 6208 9147 11060 
+	}
+	manpower=9472
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

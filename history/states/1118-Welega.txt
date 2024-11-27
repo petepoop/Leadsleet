@@ -1,0 +1,18 @@
+state={
+	id=1118
+	name="Welega"
+	provinces={
+		2009 12856 13314 13315 13316 
+	}
+	history = {
+		owner = ETH
+		add_core_of = ETH
+		add_core_of = BEG
+		add_core_of = ORO
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=189058
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

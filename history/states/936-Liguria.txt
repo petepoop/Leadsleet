@@ -1,0 +1,23 @@
+state={
+	id=936
+	name="Liguria"
+	history = {
+		owner = ITA
+		add_core_of = ITA
+		add_core_of = SPM
+		buildings = {
+			infrastructure = 1
+					dockyard = 2
+			6788 = {
+				naval_base = 8
+
+			}
+			}
+	}
+	provinces={
+		3772 6788 11891 
+	}
+	manpower=1467000
+	buildings_max_level_factor=1.000
+	state_category=large_town
+}

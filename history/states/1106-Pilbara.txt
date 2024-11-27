@@ -1,0 +1,23 @@
+
+state={
+	id=1106
+	name="Pilbara"
+
+	history={
+		owner = AST
+		add_core_of = AST
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		5125 8152 10950 10971 12993 
+	}
+	manpower=22463
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+	local_supplies=0.000
+}

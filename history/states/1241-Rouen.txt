@@ -1,0 +1,23 @@
+
+state={
+	id=1241
+	name="Rouen"
+
+	history={
+		owner = FRA
+		add_core_of = FRA
+		buildings = {
+			infrastructure = 3
+
+		}
+
+	}
+
+	provinces={
+		485 6569 9434 11563 
+	}
+	manpower=915628
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

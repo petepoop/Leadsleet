@@ -1,0 +1,22 @@
+state={
+	id=1170
+	name="Paro"
+	provinces={
+		13353 13354 13355 13359 13360 13361 
+	}
+	history = {
+		owner = BHU
+		add_core_of = BHU
+		buildings = { 
+			infrastructure = 1 
+			arms_factory = 1
+		}
+		victory_points = {
+			13355 3
+		}
+	}
+	state_category = rural
+	manpower=46316
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

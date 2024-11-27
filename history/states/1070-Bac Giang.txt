@@ -1,0 +1,16 @@
+state={
+	id=1070
+	name="Bac Giang"
+	provinces={
+		1073 1157 4119 7015 7093 7518 9948 12008 12048 12065 
+	}
+	history = {
+		owner = FRA
+		add_core_of = VIN
+		buildings = {infrastructure = 1}
+	}
+	state_category = rural
+	manpower=319299
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

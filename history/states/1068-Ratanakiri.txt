@@ -1,0 +1,16 @@
+state={
+	id=1068
+	name="Ratanakiri"
+	provinces={
+		4596 12167 
+	}
+	history = {
+		owner = FRA
+		add_core_of = CAM
+		buildings = {infrastructure = 1}
+	}
+	state_category = rural
+	manpower=184000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

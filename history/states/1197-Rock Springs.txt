@@ -1,0 +1,16 @@
+state={
+	id=1197
+	name="Rock Springs"
+	provinces={
+		7888 12561 12633 
+	}
+	history = {
+		owner = USA
+		add_core_of = USA
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=76842
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

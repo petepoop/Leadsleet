@@ -1,0 +1,21 @@
+state={
+	id=858
+	name="South Schleswig"
+	history{
+	owner = GER
+	add_core_of = GER
+	buildings = {
+			infrastructure = 3
+			6389 = {
+				naval_base = 8
+
+			}
+			}
+	}
+	provinces={
+		317 3231 6389 11366 
+	}
+	manpower=937192
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

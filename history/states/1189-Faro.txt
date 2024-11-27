@@ -1,0 +1,16 @@
+state={
+	id=1189
+	name="Faro"
+	provinces={
+		3790 6880 
+	}
+	history = {
+		owner = POR
+		add_core_of = POR
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=121556
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

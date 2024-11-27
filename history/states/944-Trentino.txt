@@ -1,0 +1,19 @@
+state={
+	id=944
+	name="Trentino"
+	history = {
+	owner = ITA
+		add_core_of = ITA
+		add_core_of = AUS
+		buildings = {
+			infrastructure = 1
+			}
+	}
+	provinces={
+		656 6631 9598 11598 
+	}
+	
+	manpower=541098
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,16 @@
+state={
+	id=1148
+	name="Bahr al Ahmar"
+	provinces={
+		1977 2003 2046 7989 10745 10902 12725 
+	}
+	history = {
+		owner = ENG
+		add_core_of = SUD
+		buildings = { infrastructure = 2 }
+	}
+	state_category = rural
+	manpower=15929
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

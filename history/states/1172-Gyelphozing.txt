@@ -1,0 +1,16 @@
+state={
+	id=1172
+	name="Gyelphozing"
+	provinces={
+		12860 13362 13364 13365 13366 13367 
+	}
+	history = {
+		owner = BHU
+		add_core_of = BHU
+		buildings = { infrastructure = 1 }
+	}	
+	state_category = rural
+	manpower=79821
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

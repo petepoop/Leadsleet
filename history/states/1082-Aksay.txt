@@ -1,0 +1,17 @@
+state={
+	id=1082
+	name="Aksay"
+	provinces={
+		432 508 566 576 1290 1318 3502 4351 7438 9462 9526 9528 11480 11510 11552 
+	}
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = KAZ
+		buildings = { infrastructure = 0 }
+	}
+	state_category = wasteland
+	manpower=32873
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

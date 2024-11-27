@@ -1,0 +1,16 @@
+state={
+	id=1137
+	name="Butnan"
+	provinces={
+		1130 4060 4136 7206 10120 13078 
+	}
+	history = {
+		owner = ITA
+		add_core_of = LBA
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=159536
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

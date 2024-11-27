@@ -1,0 +1,24 @@
+
+state={
+	id=1116
+	name="Amhara"
+
+	history={
+		owner = ETH
+		add_core_of = ETH
+		add_core_of = QEM
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		1984 2040 4954 5097 13137 13311 13317 13394 13395 13403 
+	}
+	manpower=2958898
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

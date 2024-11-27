@@ -1,0 +1,16 @@
+state={
+	id=1033
+	name="Beni"
+	provinces={
+		5188 8211 10996 12917 
+	}
+	history = {
+		owner = BOL
+		add_core_of = BOL
+		buildings = {infrastructure = 1}
+	}
+	state_category = rural
+	manpower=168367
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

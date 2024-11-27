@@ -1,0 +1,24 @@
+
+state={
+	id=973
+	name="Bohjois-Karjala"
+
+	history={
+		owner = FIN
+		add_core_of = FIN
+		add_core_of = KAR
+		buildings = {
+			infrastructure = 2
+
+		}
+
+	}
+
+	provinces={
+		7 3030 3068 3185 6210 9061 9181 13114 13115 
+	}
+	manpower=107608
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

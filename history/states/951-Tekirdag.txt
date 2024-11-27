@@ -1,0 +1,27 @@
+
+state={
+	id=951
+	name="Tekidrag"
+
+	history={
+		owner = TUR
+		add_core_of = TUR
+		buildings = {
+			infrastructure = 1
+			849 = {
+				naval_base = 3
+				coastal_bunker = 2
+
+			}
+		}
+
+	}
+
+	provinces={
+		849 3879 6895 
+	}
+	manpower=1202088
+	buildings_max_level_factor=1.000
+	state_category=city
+	local_supplies=0.000
+}

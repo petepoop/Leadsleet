@@ -1,0 +1,18 @@
+state={
+	id=840
+	name="Krajina"
+	history {
+	owner = YUG
+		add_core_of = YUG
+		add_core_of = BOS
+		buildings = {
+			infrastructure = 1
+			}
+	}
+	provinces={
+		3985 6614 6619 9586 9588 
+	}
+	manpower=131000
+	buildings_max_level_factor=1.000
+	state_category=pastoral
+}

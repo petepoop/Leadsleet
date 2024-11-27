@@ -1,0 +1,23 @@
+
+state={
+	id=1093
+	name="Vytegra"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		buildings = {
+			infrastructure = 1
+
+		}
+
+	}
+
+	provinces={
+		166 3160 6017 6034 11036 11103 
+	}
+	manpower=11892
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

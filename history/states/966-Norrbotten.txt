@@ -1,0 +1,27 @@
+
+state={
+	id=966
+	name="Norrbotten"
+
+	history={
+		owner = SWE
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 2
+			9108 = {
+				naval_base = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		118 182 3104 3113 6024 6083 6132 6161 9093 9108 9143 9220 11067 11201 
+	}
+	manpower=132967
+	buildings_max_level_factor=1.000
+	state_category=rural
+	local_supplies=0.000
+}

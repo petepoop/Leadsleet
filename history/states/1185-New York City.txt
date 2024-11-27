@@ -1,0 +1,23 @@
+state={
+	id=1185
+	name="New York City"
+	provinces={
+		706 859 3878 3894 6911 9774 
+	}
+	history = {
+		owner = USA
+		add_core_of = USA
+		buildings = { 
+			infrastructure = 3 
+			dockyard = 3
+			3878 = {
+				naval_base = 6
+
+			}
+		}
+	}
+	state_category = megalopolis
+	manpower=7454995
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

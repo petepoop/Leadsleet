@@ -1,0 +1,16 @@
+state={
+	id=1156
+	name="Isilkul"
+	provinces={
+		1709 1800 4700 7800 10568 12652 
+	}
+	history = {
+		owner = SOV
+		add_core_of = SOV
+		buildings = { infrastructure = 1 }
+	}
+	state_category = rural
+	manpower=26430
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

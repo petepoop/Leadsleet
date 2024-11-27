@@ -1,0 +1,16 @@
+state={
+	id=970
+	name="North Ostrobothina"
+	provinces={
+		82 120 132 158 195 6081 6212 11041 11081 11121 11132 
+	}
+	history = {
+			owner = FIN
+			add_core_of = FIN
+			buildings = {infrastructure = 2 }
+	}
+	manpower=275564
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+	state_category = rural
+}

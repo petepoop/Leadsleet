@@ -1,0 +1,22 @@
+state={
+	id=836
+	name="Connecticut"
+	history={
+	owner = USA
+	add_core_of = USA
+	buildings = {
+			infrastructure = 2
+			
+			9832 = {
+				naval_base = 3
+
+			}
+			}
+	}
+	provinces={
+		6909 9832 9847 9850 11830 
+	}
+	manpower=1709242	
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

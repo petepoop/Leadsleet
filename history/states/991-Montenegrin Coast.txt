@@ -1,0 +1,23 @@
+state={
+	id=991
+	name="Montenegrin Coast"
+	provinces={
+		13261 
+	}
+	history = {
+			owner = YUG
+			add_core_of = YUG
+			add_core_of = MNT
+			add_claim_by = CRO
+			buildings = {infrastructure = 2
+							9809 = {
+				naval_base = 1
+
+			}
+			}
+	}
+	manpower=121336
+	state_category = town
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

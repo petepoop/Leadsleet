@@ -1,0 +1,16 @@
+state={
+	id=1038
+	name="Atacama"
+	provinces={
+		5146 5171 5192 5228 11000 12914 12994 
+	}
+	history = {
+		owner = CHL
+		add_core_of = CHL
+		buildings = {infrastructure = 1}
+	}
+	state_category = rural
+	manpower=150000
+	buildings_max_level_factor=1.000
+	local_supplies=0.000
+}

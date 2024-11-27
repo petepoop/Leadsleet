@@ -1,0 +1,18 @@
+
+state={
+	id=853
+	name="Gozarto"
+	provinces={
+		1549 1578 1606 1634 6883 10882 
+	}
+	history = {
+		owner = FRA
+		add_core_of = SYR
+		add_core_of = KUR
+		buildings = { infrastructure = 1 }
+	}
+	manpower=318000
+	buildings_max_level_factor=1.000
+	state_category=town
+	local_supplies=0.000
+}

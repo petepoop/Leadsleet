@@ -1,0 +1,22 @@
+
+state={
+	id=846
+	name="Eastern Rhine"
+	resources={
+		steel=30.000
+	}
+	provinces={
+		529 6469 6570 9482 
+	}
+	history = {
+		owner = GER
+		add_core_of = GER
+		buildings = { infrastructure = 2 }
+		set_demilitarized_zone = yes
+	}
+	state_category = town
+	manpower=1513870
+	buildings_max_level_factor=1.000
+	state_category=metropolis
+	local_supplies=0.000
+}

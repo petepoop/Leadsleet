@@ -1,0 +1,16 @@
+state={
+	id=897
+	name="Ilam"
+	history = {
+		owner = PER
+		add_core_of = PER
+		add_core_of = KUR
+		buildings = { infrastructure = 2 } 
+	}
+	provinces={
+		829 5050 10774 
+	}
+	manpower=110067
+	buildings_max_level_factor=1.000
+	state_category = wasteland
+}
