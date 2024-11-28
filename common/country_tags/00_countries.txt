@@ -1,4 +1,5 @@
 HOL	= "countries/Holland.txt"
+BRI = "countries/Brittany.txt"
 
 GER	= "countries/Germany.txt"
 ENG = "countries/United Kingdom.txt"
@@ -202,7 +203,6 @@ CAT = "countries/Catalonia.txt"
 NAV = "countries/Navarra.txt"
 GLC = "countries/Galicia.txt"
 ADU = "countries/Andalusia.txt"
-BRI = "countries/Brittany.txt"
 OCC = "countries/Occitania.txt"
 COR = "countries/Corsica.txt"
 KUR = "countries/Kurdistan.txt"
