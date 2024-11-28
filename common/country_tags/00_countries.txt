@@ -1,5 +1,15 @@
-HOL	= "countries/Holland.txt"
+ADA = "countries/Granada.txt"
+AMA = "countriles/Amarulia.txt"
 BRI = "countries/Brittany.txt"
+HOL	= "countries/Holland.txt"
+NSL = "countries/Ny Sodermanland.txt"
+PIZ = "countries/San Pizzarro.txt"
+SCC = "countries/Santa Scopetra.txt"
+
+
+
+
+
 
 GER	= "countries/Germany.txt"
 ENG = "countries/United Kingdom.txt"

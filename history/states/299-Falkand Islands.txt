@@ -5,8 +5,9 @@ state= {
 	
 	state_category = enclave
 	
-	history= 	{
-		owner = ENG
+	history = {
+		owner = NSL
+		add_core_of = NSL
 		buildings = {
 			infrastructure = 1
 			12960 = {

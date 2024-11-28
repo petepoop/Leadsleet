@@ -1,5 +1,5 @@
 ﻿l_english:
-HOL_fascism:0 "Dutch Rijk"
+ HOL_fascism:0 "Dutch Rijk"
  HOL_fascism_DEF:0 "Dutch Rijk"
  HOL_democratic:0 "United Provinces"
  HOL_democratic_DEF:0 "the United Provinces"
@@ -25,6 +25,19 @@ HOL_fascism:0 "Dutch Rijk"
  BRI:0 "Bretagne"
  BRI_DEF:0 "Bretagne"
  BRI_ADJ:0 "Breton"
+
+ ADA:0 "Granada"
+
+ AMA:0 "Amarulia"
+
+ NSL:0 "Ny Sodermanland"
+
+ PIZ:0 "San Pizzarro"
+
+ SCC:0 "Santa Scopetra"
+
+
+
 
  GER_fascism:0 "German Reich"
  GER_fascism_DEF:0 "the German Reich"

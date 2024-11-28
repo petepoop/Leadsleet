@@ -7,15 +7,15 @@ state={
 	state_category = pastoral
 
 	history={
-		owner = CHL
+		owner = NSL
 		buildings = {
 			infrastructure = 1
 		}
-		add_core_of = CHL
+		add_core_of = NSL
 	}
 
 	provinces={
-		2161 5118 5159 5201 5209 5215 8198 8218 8913 10961 
+		2161 5118 5159 5173 5201 5209 5215 8198 8218 8913 10961 12946 
 	}
 
 	local_supplies=0.0 
