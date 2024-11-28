@@ -2,27 +2,27 @@
 
 #New Tags for Leadsleet
 ADA = {
-	color = HSV { 0.1 0.15 0.4 }
+	color = rgb { 171 175 125 }
 	color_ui = rgb { 138 155 116 }
 }
 
 AMA = {
-	color = HSV { 0.1 0.15 0.4 }
+	color = rgb { 212 148 104 }
 	color_ui = rgb { 138 155 116 }
 }
 
 NSL = {
-	color = HSV { 0.1 0.15 0.4 }
+	color = rgb { 152 149 156 }
 	color_ui = rgb { 138 155 116 }
 }
 
 PIZ = {
-	color = HSV { 0.1 0.15 0.4 }
+	color = rgb { 205 163 177 }
 	color_ui = rgb { 138 155 116 }
 }
 
 SCC = {
-	color = HSV { 0.1 0.15 0.4 }
+	color = rgb { 200 203 196 }
 	color_ui = rgb { 138 155 116 }
 }
 
