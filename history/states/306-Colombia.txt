@@ -4,13 +4,13 @@ state={
 	name="STATE_306"
 
 	history={
-		owner = COL
+		owner = ADA
 		buildings = {
 			infrastructure = 2
 			
 
 		}
-		add_core_of = COL
+		add_core_of = ADA
 		victory_points = {
 			10747 10 
 		}
@@ -18,7 +18,7 @@ state={
 	}
 
 	provinces={
-		2079 7936 7991 10846 
+		2007 2079 7936 7991 10846 
 	}
 	manpower=4953049
 	buildings_max_level_factor=1.000

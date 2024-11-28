@@ -4,17 +4,17 @@ state={
 	name="STATE_486"
 
 	history={
-		owner = COL
+		owner = VEN
 		buildings = {
 			infrastructure = 1
 
 		}
-		add_core_of = COL
+		add_core_of = VEN
 
 	}
 
 	provinces={
-		1887 2007 5026 
+		1887 5026
 	}
 	manpower=213160
 	buildings_max_level_factor=1.000

@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = COL
+		owner = ADA
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 2
@@ -19,7 +19,7 @@ state={
 			
 
 		}
-		add_core_of = COL
+		add_core_of = ADA
 		victory_points = {
 			2023 1 
 		}

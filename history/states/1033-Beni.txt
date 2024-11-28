@@ -5,8 +5,8 @@ state={
 		5188 8211 10996 12917 
 	}
 	history = {
-		owner = BOL
-		add_core_of = BOL
+		owner = AMA
+		add_core_of = AMA
 		buildings = {infrastructure = 1}
 	}
 	state_category = rural

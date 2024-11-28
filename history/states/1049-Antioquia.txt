@@ -5,8 +5,8 @@ state={
 		2023 10790 12703 
 	}
 	history = {
-		owner = COL
-		add_core_of = COL
+		owner = ADA
+		add_core_of = ADA
 		buildings = {infrastructure = 2}
 	}
 	state_category = town

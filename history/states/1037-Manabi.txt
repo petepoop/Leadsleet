@@ -6,8 +6,8 @@ state={
 		8047 8252 
 	}
 	history = {
-			owner = ECU
-			add_core_of = ECU
+			owner = ADA
+			add_core_of = ADA
 			buildings = {
 				infrastructure = 2
 				8252 = {
