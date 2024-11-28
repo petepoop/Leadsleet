@@ -299,6 +299,15 @@ set_popularities = {
 set_convoys = 150
 set_stability = 0.75
 
+create_country_leader = {
+	name = "Kees van der Leer"
+	desc = ""
+	picture = Kees_van_der_Leer.dds
+	ideology = conservatism
+	traits = {
+		#
+	}
+}
 
 ### VARIANTS ###
 # 1936 Start #
