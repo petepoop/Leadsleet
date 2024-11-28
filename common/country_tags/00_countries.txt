@@ -1,6 +1,7 @@
 ADA = "countries/Granada.txt"
 AMA = "countriles/Amarulia.txt"
 BRI = "countries/Brittany.txt"
+<<<<<<< Updated upstream
 HOL	= "countries/Holland.txt"
 NSL = "countries/Ny Sodermanland.txt"
 PIZ = "countries/San Pizzarro.txt"
@@ -10,6 +11,9 @@ SCC = "countries/Santa Scopetra.txt"
 
 
 
+=======
+OCC = "countries/Occitania.txt"
+>>>>>>> Stashed changes
 
 GER	= "countries/Germany.txt"
 ENG = "countries/United Kingdom.txt"
@@ -213,7 +217,6 @@ CAT = "countries/Catalonia.txt"
 NAV = "countries/Navarra.txt"
 GLC = "countries/Galicia.txt"
 ADU = "countries/Andalusia.txt"
-OCC = "countries/Occitania.txt"
 COR = "countries/Corsica.txt"
 KUR = "countries/Kurdistan.txt"
 TRA = "countries/Transylvania.txt"
