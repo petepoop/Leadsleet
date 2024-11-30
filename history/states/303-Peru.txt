@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = PIZ
+		owner = PRU
 		buildings = {
 			infrastructure = 2
 			arms_factory = 1
@@ -19,7 +19,7 @@ state={
 			}
 
 		}
-		add_core_of = PIZ
+		add_core_of = PRU
 		victory_points = {
 			12997 5 
 		}

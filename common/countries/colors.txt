@@ -16,12 +16,12 @@ NSL = {
 	color_ui = rgb { 138 155 116 }
 }
 
-PIZ = {
-	color = rgb { 205 163 177 }
+PAT = {
+	color = rgb { 152 149 156 }
 	color_ui = rgb { 138 155 116 }
 }
 
-SCC = {
+ARG = {
 	color = rgb { 200 203 196 }
 	color_ui = rgb { 138 155 116 }
 }

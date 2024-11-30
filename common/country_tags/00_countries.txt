@@ -1,13 +1,13 @@
 ADA = "countries/Granada.txt"
 AMA = "countriles/Amarulia.txt"
 BRI = "countries/Brittany.txt"
+CZE	= "countries/Czechoslovakia.txt"
 HOL	= "countries/Holland.txt"
 NSL = "countries/Ny Sodermanland.txt"
 OCC = "countries/Occitania.txt"
-PIZ = "countries/San Pizzarro.txt"
-SCC = "countries/Santa Scopetra.txt"
+PAT = "countries/Patagonia.txt"
 SCO = "countries/Scotland.txt"
-CZE	= "countries/Czechoslovakia.txt"
+
 
 GER	= "countries/Germany.txt"
 ENG = "countries/United Kingdom.txt"
