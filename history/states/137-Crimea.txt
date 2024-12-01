@@ -4,7 +4,7 @@ state={
 	name="STATE_137"
 
 	history={
-		owner = SOV
+		owner = HOL
 		
 		victory_points = {
 			9680 1 
@@ -24,8 +24,8 @@ state={
 			}
 
 		}
-		add_core_of = SOV
-		add_core_of = CRI
+		add_core_of = HOL
+		add_core_of = HOL
 		1939.1.1 = {
 			buildings = {
 				dockyard = 2

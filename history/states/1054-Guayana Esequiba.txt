@@ -5,7 +5,7 @@ state={
 		12716 13283 
 	}
 	history = {
-		owner = ENG
+		owner = GYA
 		add_core_of = GYA
 		add_claim_by = VEN
 		buildings = { infrastructure = 1}

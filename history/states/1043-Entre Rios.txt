@@ -2,11 +2,11 @@ state={
 	id=1043
 	name="Entre Rios"
 	provinces={
-		1449 8187 10515 10943 12453 12964 
+		1449 8187 10943 12453 12964 
 	}
 	history = {
-		owner = ARG
-		add_core_of = ARG
+		owner = PAR
+		add_core_of = PAR
 		buildings = {infrastructure = 1}
 	}
 	state_category = town

@@ -5,8 +5,8 @@ state={
 		3535 6559 9441 9471 11481 11545 
 	}
 	history = {
-			owner = GER
-			add_core_of = GER
+			owner = HOL
+			add_core_of = HOL
 			buildings = {infrastructure = 2 }
 	}
 	manpower=699300	

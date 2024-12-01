@@ -4,8 +4,8 @@ state={
 	name="Ardennes"
 
 	history={
-		owner = BEL
-		add_core_of = BEL
+		owner = HOL
+		add_core_of = HOL
 		buildings = {
 			infrastructure = 1
 

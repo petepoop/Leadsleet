@@ -2,8 +2,8 @@ state={
 	id=882
 	name="Northern Wales"
 	history = {
-	owner = ENG
-	add_core_of = ENG
+	owner = HOL
+	add_core_of = HOL
 	add_core_of = WLS
 	buildings = { infrastructure = 2 }
 	}

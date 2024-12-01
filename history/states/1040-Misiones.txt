@@ -5,8 +5,8 @@ state={
 		8238 11007 
 	}
 	history = {
-		owner = ARG
-		add_core_of = ARG
+		owner = PAR
+		add_core_of = PAR
 		buildings = {infrastructure = 1}
 	}
 	state_category = rural

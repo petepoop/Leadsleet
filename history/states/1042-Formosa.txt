@@ -5,8 +5,8 @@ state={
 		10944 12922 12943 
 	}
 	history = {
-		owner = ARG
-		add_core_of = ARG
+		owner = PAR
+		add_core_of = PAR
 		buildings = {infrastructure = 1}
 	}
 	state_category = town

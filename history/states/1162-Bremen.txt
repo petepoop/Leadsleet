@@ -4,8 +4,8 @@ state={
 	name="Bremen"
 
 	history={
-		owner = GER
-		add_core_of = GER
+		owner = HOL
+		add_core_of = HOL
 		buildings = {
 			infrastructure = 2
 

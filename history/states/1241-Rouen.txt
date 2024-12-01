@@ -4,8 +4,8 @@ state={
 	name="Rouen"
 
 	history={
-		owner = FRA
-		add_core_of = FRA
+		owner = HOL
+		add_core_of = HOL
 		buildings = {
 			infrastructure = 3
 

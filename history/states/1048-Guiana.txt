@@ -5,8 +5,8 @@ state={
 		10792 12729 
 	}
 	history = {
-		owner = COL
-		add_core_of = COL
+		owner = VEN
+		add_core_of = VEN
 		buildings = {infrastructure = 1}
 	}
 	state_category = wasteland

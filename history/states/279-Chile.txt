@@ -11,7 +11,7 @@ state={
 	}
 
 	history={
-		owner = CHL
+		owner = NSL
 		buildings = {
 			infrastructure = 3 #was: 5
 			arms_factory = 1
@@ -27,7 +27,7 @@ state={
 				bunker = 1
 			}
 		}
-		add_core_of = CHL
+		add_core_of = NSL
 		victory_points = {
 			650 10
 		}
