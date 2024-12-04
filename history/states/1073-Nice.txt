@@ -2,10 +2,10 @@ state={
 	id=1073
 	name="Nice"
 	provinces={
-		3959 6975 9909 
+		911 956 3928 3959 6975 9909 
 	}
 	history = {
-		owner = FRA
+		owner = SPM
 		add_core_of = FRA
 		add_core_of = OCC
 		add_core_of = SPM

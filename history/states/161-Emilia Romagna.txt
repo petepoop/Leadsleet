@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = ITA
+		owner = SPM
 		victory_points = {
 			6606 3 
 		}
@@ -18,7 +18,7 @@ state={
 
 
 		}
-		add_core_of = ITA
+		add_core_of = SPM
 
 	}
 

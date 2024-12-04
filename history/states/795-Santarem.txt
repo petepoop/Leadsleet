@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = POR
+		owner = SPR
 		victory_points = {
 			9869 1 
 		}
@@ -19,7 +19,7 @@ state={
 			industrial_complex = 2
 
 		}
-		add_core_of = POR
+		add_core_of = SPR
 
 	}
 

@@ -4,7 +4,7 @@ state={
 	name="STATE_179"
 
 	history={
-		owner = POR
+		owner = SPR
 		victory_points = {
 			3790 1 
 		}
@@ -26,7 +26,7 @@ state={
 			}
 
 		}
-		add_core_of = POR
+		add_core_of = SPR
 		add_extra_state_shared_building_slots = 1
 
 	}
