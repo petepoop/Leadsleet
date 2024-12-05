@@ -4,7 +4,7 @@ state={
 	name="STATE_162"
 
 	history={
-		owner = ITA
+		owner = GEN
 		victory_points = {
 			9907 3 
 		}
@@ -30,7 +30,7 @@ state={
 			}
 
 		}
-		add_core_of = ITA
+		add_core_of = GEN
 		add_core_of = TOS
 		1939.1.1 = {
 			buildings = {

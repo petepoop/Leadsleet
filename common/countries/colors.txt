@@ -6,6 +6,11 @@ ADA = {
 	color_ui = rgb { 138 155 116 }
 }
 
+GEN = {
+	color = rgb { 152 251 152 }
+	color_ui = rgb { 138 155 116 }
+}
+
 AMA = {
 	color = rgb { 212 148 104 }
 	color_ui = rgb { 138 155 116 }
